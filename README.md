@@ -1,2 +1,2 @@
 # Blossom-Blooms-Floral-Shop---Where-Every-Petal-Tells-a-Story
-Step into [City Name]'s enchanting Blossom Blooms. Explore curated blooms, register for exclusive benefits, and enjoy personalized consultations. Create your account in-store or online for priority access to promotions and member-only events. Let every petal tell your unique story. Join us at Blossom Blooms, where moments blossom beautifully. 🌷
+Step into Trondheim's enchanting Blossom Blooms. Explore curated blooms, register for exclusive benefits, and enjoy personalized consultations. Create your account in-store or online for priority access to promotions and member-only events. Let every petal tell your unique story. Join us at Blossom Blooms, where moments blossom beautifully. 🌷
