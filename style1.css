@@ -1,0 +1,48 @@
+/*Selector {
+	Property: value;
+}*/
+* {
+	text-align: right;
+}
+body {
+	background-image: url(https://media.istockphoto.com/id/1354836935/photo/pressed-and-dried-dry-flower-hydrangea-isolated-on-white-background.jpg?s=612x612&w=is&k=20&c=fxeeYUFOPbt6TTSt4MHZGsHMbdHHm7ZG7IMt2BbD03E=);
+	background-size: cover;
+}
+h1 , p {
+	color: #162756;
+	text-align: center;
+	border: 5px solid rgba(170, 110, 57,0.5);
+	cursor: pointer;
+}
+p {
+	color: #554700;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px
+	font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Neon', cursive;
+}
+span {
+	font-size: 2em
+}
+img {
+	float:left;
+}
+footer{
+	clear: both;
+	text-align: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.webtext{
+	border: 5px solid rgba(170, 110, 57,0.5) 
+}
+.active {
+	color: #554700;
+}
+#div1 {
+	background: rgba(212, 195, 106,0.5);
+}

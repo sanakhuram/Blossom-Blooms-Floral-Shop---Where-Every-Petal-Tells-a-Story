@@ -1,0 +1,51 @@
+body{
+	background-image: url(https://media.istockphoto.com/id/519325761/photo/dried-hydrangea-flower.jpg?s=612x612&w=0&k=20&c=DrhDskASEBipASEsBBqfQ43TCovBTtqZoylrnEm9qbY=);
+	background-size: cover;
+}
+h1 {
+	color:#804715;
+	text-align: center;
+	border: 5px solid rgba(212, 156, 106);
+	cursor: pointer;
+}
+.boxmodel {
+	color: #805E15;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%
+	font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Neon', cursive;
+	border: 5px solid #635192;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 5px;
+}
+li {
+	color: #303E75;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px
+	font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Neon', cursive;
+list-style: none;
+	display: block;
+}
+li{
+	list-style: none;
+	display: block;
+	transition: all 1s;
+}
+li{
+	list-style: none;
+	display: block;
+}
+li{
+	list-style: none;
+	display: block;
+}
+li{
+	list-style: none;
+	display: block;
+}

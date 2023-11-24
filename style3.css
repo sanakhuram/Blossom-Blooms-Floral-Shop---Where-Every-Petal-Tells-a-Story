@@ -1,0 +1,23 @@
+*{
+	text-align:left;
+}
+body {
+	background-image: url(https://media.istockphoto.com/id/1345992449/photo/pressed-and-dried-dry-flower-hydrangea-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=T5-0oRiIWwUFtw9Lwhx3v_vCYQLEZ1DkWeAhE3s0jl0=); 
+	background-size:cover;
+}
+h1 {
+	color: #303E75
+}
+form{
+	color: #303E75
+	font-style:;
+	font-weight: bold;
+	font-size: 40px
+	font-family: 'Shantell Sans', cursive;
+font-family: 'Tilt Neon', cursive;
+}
+footer{
+	color: #AC8A39;
+	clear: both;
+	text-align: right;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register.html</title>
+	<link rel="stylesheet" type="text/css" href="style3.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&family=Tilt+Neon&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<header>
+		<h1>Register</h1>
+	</header>
+	<nav>
+		<a href="website2.html">
+			<p>Go Home</p>
+		</a>
+	</nav>
+	<footer>
+		
+	</footer>
+	<!--Use GET, not POST-->
+	<div>
+	<form method="GET" action="action.php">
+		First Name: <input type="text" name="First name"><br>
+		Last Name: <input type="text" name="Last name"><br>
+		Email: <input type="text" name="Email" required><br>
+		Password: <input type="Password" name="Password" min="5"><br>
+		Birthday: <input type="date" name="Birthday"><br>
+		Gender:<br>
+		<input type="radio" name="Gender" value="Male">Male<br>
+		<input type="radio" name="Gender" value="Female">Female<br>
+		<input type="radio" name="Gender" value="Other">Other<br>
+		Pets: <br>
+		<input type="checkbox" name="Cat">Cat<br>
+		<input type="checkbox" name="Dog">Dog<br>
+		Cars:<br>
+		<select name="cars">
+			<option value="volvo" name="Volvo">Volvo</option>
+			<option value="Audi" name="Audi">Audi</option>
+			<option value="toyota" name="toyota">Toyota</option>
+		</select><br>
+		<input type="submit" value="Register!">
+		<input type="reset" name="">
+	</div>
+	</form>
+</body>
+<a href="store.html">
+<footer>Continue Shop</footer>
+</a>
+</html>
